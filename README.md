@@ -1,4 +1,4 @@
-# intel-project
+# student performance analysis # intel-project
 Sure! Here's a professional and clear **README.md** content tailored for your **Students Performance Data Analysis project** using data visualization in Python:
 
 ---
